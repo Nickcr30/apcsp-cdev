@@ -25,7 +25,7 @@ int main()
 
   signed char f = 'h';
   // print value and size of signed char variable
-  printf("signed char f value: %c and size: %lu\n", f, sizeof(f));
+   printf("signed char f value: %c and size: %lu\n", f, sizeof(f));
 
 
 
